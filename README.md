@@ -1,6 +1,6 @@
 ## Target SAMSUNG Research Institute
 
-### Question 1 :  [DONE]
+### Question 1 :  [DONE]{N once}
 
 
 You are given an unsorted array with both positive and negative elements. You have to find the smallest positive number missing from the array in O(n) time using constant extra space.
